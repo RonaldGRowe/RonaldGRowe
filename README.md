@@ -1,7 +1,7 @@
 Welcome I am Ronald Rowe a Software Developer
 =============================================
 
--You can find me blogging on [dev.to](https://dev.to/ronaldgrowe)
+-You can find me blogging on [Medium](https://medium.com/@ronaldgilesrowe)
 
 -You can also find me on [Linkedin](https://www.linkedin.com/in/ronald-rowe-83a16440/)
 
