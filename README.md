@@ -1,5 +1,4 @@
 # Welcome I am Ronald Rowe a Software Developer
-=============================================
 
 * You can find me blogging on [Medium](https://medium.com/@ronaldgilesrowe)
 
