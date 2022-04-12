@@ -6,4 +6,4 @@
 
 * Feel free to reach me by email 📧 ronaldgilesrowe@gmail.com 
 
-* Check out my [Resume](https://github.com/RonaldGRowe/Resume/blob/main/01RonaldRoweResume.pdf)
+* Check out my [Resume](https://github.com/RonaldGRowe/Resume/blob/main/01RonaldRoweResumeP.pdf)
